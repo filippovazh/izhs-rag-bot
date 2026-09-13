@@ -70,6 +70,12 @@ izhs-rag-bot/
    python main.py
    ```
 
+## Скриншоты
+
+![Диалог с ботом](docs/screenshot1.png)
+![Диалог с ботом](docs/screenshot2.png)
+![Диалог с ботом](docs/screenshot3.png)
+
 ## Запуск в России
 
 Telegram API заблокирован. Для работы бота нужен VPN или прокси. В `main.py` предусмотрена настройка через переменные окружения `HTTP_PROXY` / `HTTPS_PROXY` — укажи там адрес своего локального прокси.
